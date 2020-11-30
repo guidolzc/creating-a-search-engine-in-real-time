@@ -12,4 +12,3 @@
 5 will show the existing
 
 
-https://guidolzc.github.io/creating-a-search-engine-in-real-time/
